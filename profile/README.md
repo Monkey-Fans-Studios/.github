@@ -1,1 +1,1 @@
-# *"We just makin' stuff - Kernel 2025"*
+# *"We just makin' stuff" - Kernel 2025*
